@@ -26,7 +26,7 @@ Flix is an app that allows users to browse movies from the [The Movie Database A
 
 ### Notes
 
-Describe any challenges encountered while building the app.
+The only difficulties I've ran into this week were trying to wrap my head around last week and this week's topics and how they are working for this specific app. Other than that, the only other difficulties I'm running into are GitHub. I'm still trying to understand the terminal commands. I'm pretty sure I accidentally diverged my local and remote branches. So, in order to avoid any more difficulties and challenges, I left it as is for this project. Hopefully, everything that's required is up-to-date. 
 
 ## Open-source libraries used
 - [Android Async HTTP](https://github.com/codepath/CPAsyncHttpClient) - Simple asynchronous HTTP requests with JSON parsing
